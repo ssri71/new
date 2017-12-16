@@ -30,7 +30,7 @@ public class SalesPerson {
 	
 	public void display()
 	{
-		System.out.println("");
+		
 	}
 
 }
